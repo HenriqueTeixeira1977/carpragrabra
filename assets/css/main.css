@@ -1,0 +1,407 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat";
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+    transition: all .3s ease;
+}
+:root {
+    --dark: #000000;
+    --light: #fff;
+    --accent: #FFCC33;
+    --accent-glow: 0 0 12px #FFCC33aa;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #000000;
+    color: var(--light);
+}
+h1, h2, h3, h4, h5 {
+    font-family: 'Montserrat', sans-serif;
+}
+.text-highlight {
+    color: var(--accent);
+}
+.btn-accent {
+    background: var(--accent);
+    border: none;
+    color: #000;
+    box-shadow: var(--accent-glow);
+}
+.btn-accent:hover {
+    filter: brightness(1.1);
+}
+
+/* Botões fixos */
+.top-fixed {
+    position: fixed; z-index: 999; width: 52px; height: 52px;
+    border-radius: 50%; display: flex; align-items: center; justify-content: center;
+    background: var(--accent); box-shadow: var(--accent-glow); border: none; color: #000;
+}
+.wa-fixed {
+    position: fixed; z-index: 999; width: 52px; height: 52px;
+    border-radius: 50%; display: flex; align-items: center; justify-content: center;
+    background: green; box-shadow: var(--light) 1px 1px 1px; border: var(--light) solid 2px; color: #ffffff;
+}
+.top-fixed { bottom: 96px; right: 40px; display:none; }
+.wa-fixed { bottom: 24px; right: 40px; }
+@keyframes glow {
+    0%,100% { text-shadow:0 0 10px #FFCC33, 0 0 20px #FFCC33; }
+    50%     { text-shadow:0 0 2px  #FFCC33, 0 0 4px  #FFCC33; }
+  }
+  .glow-text {
+    animation: glow 3s ease-in-out infinite;
+  }
+
+/* Navbar */
+#mainNavbar {
+    transition: all 0.3s ease;
+    background: transparent;
+    padding: 40px 0;
+}
+#mainNavbar.scrolled {
+    background: #2c2c2c;
+    padding: 20px 0;
+    box-shadow: 0 4px 10px #FFCC33;
+}
+.navbar-brand img {
+    height: 50px;
+    transition: height 0.3s ease;
+}
+#mainNavbar.scrolled .navbar-brand img {
+    height: 40px;
+}
+.navbar-nav .nav-link {
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    transition: color 0.3s ease;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+    color: #ffcc07;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+.navbar-toggler {
+    border: none;
+}
+
+/*.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 0.8)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}*/
+
+/*  SESSAO HERO  */
+/* Hero Section (para simular o fundo da navbar transparente) */
+#hero {
+    width:100%; 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow:hidden; 
+}
+#hero .container{
+    background-color: rgba(255, 0, 0, 0);
+    width: 100%;
+    height: 100vh;
+}
+#hero h1 {
+    font-size: 3rem;
+    color: #fff;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+/* HERO – CSS exclusivo da seção */
+#hero .carousel-inner{ 
+    min-height:100vh; 
+}
+#hero .carousel-item{
+    position:relative;
+    min-height:100vh;           /* slide cobre toda altura da viewport */
+}
+#hero .hero-layer{
+    position:absolute; 
+    inset:0;
+    background-size:cover; 
+    background-position:center;
+    filter:brightness(.7);
+}
+/* Substitua pelos seus arquivos reais */
+.hero-img-1{ 
+    background-image:url('../img/hero/slide0.png'); 
+}
+.hero-img-2{ 
+    background-image:url('../img/hero/slide1.png'); 
+}
+.hero-img-3{ 
+    background-image:url('../img/hero/slide2.png'); 
+}
+.hero-img-4{ 
+    background-image:url('../img/hero/slide3.png'); 
+}
+
+
+/* SESSAO FAQ  */
+#faq {
+    background-color: #ffcd0700;
+    transition: all 0.3s ease;
+}
+#faq .container{
+    background-color: rgba(255, 0, 0, 0);
+    padding: 80px 0;
+}
+#faq-info{
+    background-color: rgba(255, 255, 0, 0);
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    flex-direction: column;text-align: right;
+}
+#faq-quest{
+    background-color: rgba(0, 0, 255, 0);
+}
+#faq .row{
+    display: flex;
+    flex-direction: row-reverse;
+}
+#faqAccordion{
+    width: 100%;
+}
+.accordion-item {
+    background-color: var(--card-bg);
+    border-radius: 10px !important;
+    overflow: hidden;
+}
+.accordion-button {
+    background-color: #343a40 !important;
+    color: #ffffff !important;
+    font-weight: 500;
+    padding: 20px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+.accordion-button:not(.collapsed) {
+    background-color: #FFCC33 !important;
+    color: #212529 !important;
+}
+.accordion-button:focus {
+    box-shadow: none;
+    border: none;
+}
+.accordion-body {
+    background-color: #2c2c2c !important;
+    color: #e9ecef !important;
+    padding: 20px;
+    line-height: 1.6;
+}
+.accordion-button::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+.accordion-button:not(.collapsed)::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23212529'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+/*  SESSAO SOLUCOES  */
+#solucoes{background-color: #ffffff;
+    padding: 100px 0;
+}
+
+/*  SESSAO DIFERENCIAIS  */
+#diferencial{background-color: #777777;
+    padding: 100px 0;
+}
+#diferencial .card{
+    background-color: #FFFFFF;
+    color: gray;
+    font-weight: 300;
+}
+#diferencial .card:hover{
+    transition: all .5s ease;
+    transform: translateY(12px) rotate(2deg) scale(1.1);
+    color: black;
+}
+
+/*  SESSAO DEPOIMENTOS  */
+#depoimentos{
+    background-color: #e0e0e0;
+}
+
+/*  SESSAO CONTATO  */
+#contato{
+    background-color: rgb(77, 77, 77);
+    padding-top: 120px;
+}
+#contato .ratio{background-color: rgba(255, 0, 0, 0);
+    height: 300px;    
+}
+#contato .container{
+    background-color: rgb(77, 77, 77);
+    padding: 50px 0;
+}
+#lead-form{
+    background-color: #e0e0e0;
+}
+#lead-form .form-control {
+    background: #9b9b9b; color: var(--light); border: 1px solid #444;
+}
+#lead-form .form-control:focus {
+    border-color: var(--accent); box-shadow: 0 0 8px #FFCC33aa;
+}
+
+/*  SESSASO FOOTER  */
+footer {
+    background: linear-gradient(135deg, #212529, #343a40);
+    /*background-color: rgb(0, 255, 13);*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    padding: 100px 0 0 0;
+    height: 55vh;
+    
+}
+footer .container{
+    background-color: #ffd34300;
+    height: 100%;
+}
+
+.btn-gold {
+    background-color: var(--gold-accent);
+    border-color: var(--gold-accent);
+    color: #fff;
+    font-weight: 500;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+}
+.btn-gold:hover {
+    background-color: #FFCC33;
+    border-color: #ffffff;
+    color: #9b9b9b;
+    transform: translateY(-2px);
+}
+.form-control {
+    border-radius: 10px;
+    border: 1px solid #ced4da;
+    transition: border-color 0.3s ease;
+}
+.form-control:focus {
+    border-color: var(--gold-accent);
+    box-shadow: 0 0 5px rgba(212, 175, 55, 0.5);
+}
+.text-light:hover {
+    color: var(--gold-accent) !important;
+}
+
+/* Ajustes responsivos */
+@media (max-width: 1366.98px) {
+
+    #btn-header{
+        font-size: .7rem;
+    }
+}
+@media (max-width: 1023.98px) {
+
+    .navbar-toggler {background-color: #FFCC33;
+        display: block;
+        border: none;
+        color: #000000;
+    }
+    #mainNavbar {background-color: rgba(0, 255, 255, 0);
+        width: 100%;
+        padding: 15px 0;
+        direction: none;
+    }
+    #mainNavbar.scrolled {
+        padding: 10px 0;
+    }
+    .navbar-nav {
+        text-align:right;
+        background: #00000000;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .navbar-brand img {
+        height: 40px;
+    }
+    #mainNavbar.scrolled .navbar-brand img {
+        height: 35px;
+    }
+    #mainNavbar button span .navbar-toggler-icon{ 
+        color:#ffcc07;
+        background-color: red;
+    }
+
+    #btn-header{
+        display: none;
+    }
+    .navbar-toggler{
+        display: block;
+    }
+
+}
+@media (max-width: 767.98px) {
+    
+    .container{
+        padding: 30px;
+    }
+    .navbar-toggler {background-color: rgb(255, 205, 42);
+        border: none;
+        color: #000000;
+    }
+
+    /*  SESSAO HERO  */
+    #hero h1 {
+        font-size: 2rem;
+    }
+    
+    /*  SESSAO FAQ  */
+    #faq{
+        padding: 50px;
+    }
+    #faqAccordion{
+        background-color: rgba(255, 0, 0, 0);
+        width: 100%;
+    }
+    .accordion-button {
+        font-size: 0.9rem;
+        padding: 15px;
+    }
+    .accordion-body {
+        font-size: 0.85rem;
+        padding: 15px;
+    }
+
+    /*  SESSAO CONTATO  */
+    #contato .container{
+        padding:30px;
+    }
+
+    /*  SESSAO FOOTER  */
+    footer{
+        padding: 0px;
+        height: 100%;
+    }
+    footer h5 {
+        font-size: 1.2rem;
+    }
+    footer .input-group{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        background-color: rgba(0, 17, 255, 0);
+        padding: 0px;
+    }
+    footer .input-group input {
+        padding: 10px;
+        border-radius: 10px 0 0 10px !important;
+    }
+    footer form button{
+        border-radius: 0px 10px 10px 0 !important;
+    }
+}
+

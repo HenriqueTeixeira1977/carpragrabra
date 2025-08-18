@@ -101,7 +101,7 @@
             <h1 class="display-4 fw-bold" data-aos="zoom-in" data-aos-duration="1000">
               Carga segura em <span class="text-highlight">todo Brasil</span>
             </h1>
-            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Mudamos sua carga ainda hoje, 24 h por dia.</p>
+            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Mudamos sua carga ainda hoje, 24hs por dia.</p>
             <a href="#lead-form" class="btn btn-accent btn-lg fw-bold" data-aos="zoom-in" data-aos-delay="500">
               Transporte sem dor de cabeça
             </a>
@@ -115,7 +115,7 @@
             <h1 class="display-4 fw-bold" data-aos="zoom-in" data-aos-duration="1000">
               Últimas vagas <span class="text-highlight">SP→NE </span> –40% OFF
             </h1>
-            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Garanta seu espaço para 05/05 antes que acabe.</p>
+            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Garanta logo a sua mudança.</p>
             <a href="https://wa.me/5513981269443" class="btn btn-accent btn-lg fw-bold" data-aos="zoom-in" data-aos-delay="500">
               Reservar minha vaga
             </a>
@@ -129,7 +129,7 @@
             <h1 class="display-4 fw-bold" data-aos="zoom-in" data-aos-duration="1000">
               Atendimento <span class="text-highlight">24hs em Praia Grande</span>
             </h1>
-            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Pronto quando você precisar.</p>
+            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Estamos pronto quando você precisar.</p>
             <a href="https://wa.me/5513981269443" class="btn btn-accent btn-lg fw-bold" data-aos="zoom-in" data-aos-delay="500">
               Chamar agora
             </a>

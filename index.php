@@ -33,7 +33,7 @@
     <meta name="twitter:description" content="A Carretos Praia Grande é especializada em soluções completas para suas necessidades em pequenos transportes para residências e comércios na região de Praia Grande.">
     <meta name="twitter:image" content="https://carretospraiagrande.com.br/img-sobre.webp">
     
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
 
     <!-- SEO -->
     <meta name="description" content="Carretos Praia Grande - Pequenos transportes para residências e comércios na região de Praia Grande.">

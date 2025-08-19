@@ -7,11 +7,37 @@
     
     <title>CARRETOS PRAIA GRANDE - (13) 98126-9443</title>
 
+
+    <meta name="description" content="A Carretos Praia Grande é especializada em soluções completas para suas necessidades em pequenos transportes para residências e comércios na região de Praia Grande.">       
+    <meta name="keywords" content="Carretos Praia Grande, carretos em praia Grande, Carretos em Praia Grande, Empresa de carretos em Praia Grande, Serviços de mudança e carretos em Praia Grande, Carretos comerciais em Praia Grande, carretos em Praia Grande e região, pequenos carretos.">     
+    
+    <meta name="author" content="Henrique Teixeira | HT WebSitesBuilder">
+    <meta name="robots" content="index, follow">        
+    <meta name="googlebot" content="index, follow">        
+    <meta name="google-site-verification" content="-FbYW8EfjSpYoXkryJyNlU7wQUdYQlwgZoOJ2grohTA">   
+    <meta name="google-site-verification" content="=-FbYW8EfjSpYoXkryJyNlU7wQUdYQlwgZoOJ2grohTA">   
+    <!--  google-site-verification=-FbYW8EfjSpYoXkryJyNlU7wQUdYQlwgZoOJ2grohTA  -->
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="canonical" href="https://www.carretospraiagrande.com.br"> 
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7CHRLNL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>    
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <meta property="og:title" content="Carretos em Praia Grande">
+    <meta property="og:description" content="A Carretos Praia Grande é especializada em soluções completas para suas necessidades em pequenos transportes para residências e comércios na região de Praia Grande.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://carretospraiagrande.com.br">
+    <meta property="og:image" content="https://carretospraiagrande.com.br/img-sobre.webp">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Carretos em Praia Grande">
+    <meta name="twitter:description" content="A Carretos Praia Grande é especializada em soluções completas para suas necessidades em pequenos transportes para residências e comércios na região de Praia Grande.">
+    <meta name="twitter:image" content="https://carretospraiagrande.com.br/img-sobre.webp">
+    
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+
     <!-- SEO -->
     <meta name="description" content="Carretos Praia Grande - Pequenos transportes para residências e comércios na região de Praia Grande.">
     <meta name="keywords" content="Carretos Praia Grande, mudanças, transportes, Praia Grande SP">
-    <meta name="author" content="Henrique Teixeira | HT WebSitesBuilder">
-    <meta name="robots" content="index, follow">
 
     <!-- GOOGLE FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

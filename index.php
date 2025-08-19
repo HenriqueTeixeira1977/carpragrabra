@@ -37,7 +37,7 @@
 
     <!-- SEO -->
     <meta name="description" content="Carretos Praia Grande - Pequenos transportes para residências e comércios na região de Praia Grande.">
-    <meta name="keywords" content="Carretos Praia Grande, mudanças, transportes, Praia Grande SP">
+    <meta name="keywords" content="Carretos Brasil, transportes, Praia Grande SP">
 
     <!-- GOOGLE FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

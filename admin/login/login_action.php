@@ -13,7 +13,7 @@ $user = $stmt->fetch();
 if ($user && password_verify($senha, $user['senha'])) {
     $_SESSION['admin_user'] = $user['usuario'];
     $_SESSION['admin_nome'] = $user['nome'];
-    header('Location: ../dashboard/dashboard.php');
+    header('Location: ../dashboard/index.php');
     exit;
 } else {
     header('Location: login.php?erro=1');

@@ -4,7 +4,7 @@ session_start();
 
 // Verifica se o usuário está logado
 if (!isset($_SESSION['usuario'])) {
-    header("Location: ../login/login.php");
+    header("Location: ../login/index.php");
     exit;
 }
 

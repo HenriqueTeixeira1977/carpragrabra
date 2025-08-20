@@ -4,7 +4,7 @@ require_once 'config.php';
 
 // Verificar autenticação
 if (!isset($_SESSION['admin_id'])) {
-    header('Location: /login/login.php');
+    header('Location: /login/index.php');
     exit;
 }
 

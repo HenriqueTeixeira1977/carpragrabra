@@ -1,8 +1,8 @@
 <?php
     $host = 'localhost';
-    $db   = 'u783757499_carretosbrasil';
-    $user = 'u783757499_carretosbrasil';
-    $pass = '$P*qv|zB1';
+    $db   = 'carretos_db';
+    $user = 'root';
+    $pass = '';
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";

@@ -574,6 +574,7 @@
                   </div>
 
                   <!-- Pergunta 4 -->
+                  <!--
                   <div class="accordion-item border-0 shadow-sm mb-3 rounded-3" data-aos="fade-up" data-aos-delay="250">
                       <h2 class="accordion-header" id="faq4">
                           <button class="accordion-button collapsed bg-dark text-light fw-medium" type="button"
@@ -588,6 +589,7 @@
                           </div>
                       </div>
                   </div>
+                  -->
 
                   <!-- Pergunta 5 -->
                   <div class="accordion-item border-0 shadow-sm rounded-3" data-aos="fade-up" data-aos-delay="300">

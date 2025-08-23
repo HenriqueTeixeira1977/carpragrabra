@@ -113,7 +113,7 @@
             <h1 class="display-4 fw-bold" data-aos="zoom-in" data-aos-duration="1000" glow-text>
               Realizamos carretos para todo o <span class="text-highlight">BRASIL.</span>
             </h1>
-            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Precisa de carreto AGORA?</p>
+            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Levamos sua carga para qualquer cidade do país com segurança e confiança.</p>
             <a href="https://wa.me/5513981269443" class="btn btn-accent btn-lg fw-bold" data-aos="zoom-in" data-aos-delay="500">
               Quero orçamento relâmpago
             </a>
@@ -127,7 +127,7 @@
             <h1 class="display-4 fw-bold" data-aos="zoom-in" data-aos-duration="1000">
               Sua carga em <span class="text-highlight">boas mãos</span>
             </h1>
-            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Mudamos sua carga ainda hoje, 24hs por dia.</p>
+            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Estamos prontos a qualquer hora para transportar o que você precisa.p>
             <a href="#lead-form" class="btn btn-accent btn-lg fw-bold" data-aos="zoom-in" data-aos-delay="500">
               Transporte sem dor de cabeça
             </a>
@@ -139,11 +139,11 @@
           <div class="hero-layer hero-img-3"></div>
           <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative">
             <h1 class="display-4 fw-bold" data-aos="zoom-in" data-aos-duration="1000">
-              Últimas vagas <span class="text-highlight">SP→NE </span> –40% OFF
+              💰 Preço Justo,  <span class="text-highlight">Serviço  </span> Profissional
             </h1>
-            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Garanta logo a sua mudança.</p>
+            <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Carretos econômicos sem abrir mão da qualidade.</p>
             <a href="https://wa.me/5513981269443" class="btn btn-accent btn-lg fw-bold" data-aos="zoom-in" data-aos-delay="500">
-              Reservar minha vaga
+              Orçamento Relampago
             </a>
           </div>
         </div>
@@ -153,7 +153,7 @@
           <div class="hero-layer hero-img-4"></div>
           <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative">
             <h1 class="display-4 fw-bold" data-aos="zoom-in" data-aos-duration="1000">
-              Atendimento <span class="text-highlight">24hs em Praia Grande</span>
+              Atendimento <span class="text-highlight">24hs em Praia Grande e Baixada Santista</span>
             </h1>
             <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Estamos pronto quando você precisar.</p>
             <a href="https://wa.me/5513981269443" class="btn btn-accent btn-lg fw-bold" data-aos="zoom-in" data-aos-delay="500">

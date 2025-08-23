@@ -154,7 +154,7 @@
           <div class="hero-layer hero-img-4"></div>
           <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative">
             <h1 class="display-4 fw-bold" data-aos="zoom-in" data-aos-duration="1000">
-              Atendemos <span class="text-highlight">Baixada Santista</span>
+              Atendemos <span class="text-highlight">24hs</span> na Baixada Santista
             </h1>
             <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Estamos pronto quando você precisar.</p>
             <a href="https://wa.me/5513981269443" class="btn btn-accent btn-lg fw-bold" data-aos="zoom-in" data-aos-delay="500">

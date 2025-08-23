@@ -270,13 +270,16 @@
               <p>Imprevistos não têm hora. Nossa equipe está de plantão dia e noite.</p>
             </div>
           </div>
+<!--
           <div class="col-md-4">
             <div class="card h-100 border-0 text-center p-4 shadow" data-aos="flip-left" data-aos-delay="200">
               <i class="fa-solid fa-shield-halved fa-3x text-highlight mb-3"></i>
-              <h3 class="h5 fw-bold mb-3">Seguro Incluso</h3>
-              <p>Todos os serviços saem com cobertura de até R$ 50 mil sem custo extra.</p>
+              <h3 class="h5 fw-bold mb-3">Segurança Total</h3>
+              <p>Todos os serviços </p>
             </div>
           </div>
+-->
+
           <div class="col-md-4">
             <div class="card h-100 border-0 text-center p-4 shadow" data-aos="flip-left" data-aos-delay="300">
               <i class="fa-solid fa-stopwatch fa-3x text-highlight mb-3"></i>

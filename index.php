@@ -125,7 +125,7 @@
           <div class="hero-layer hero-img-2"></div>
           <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative">
             <h1 class="display-4 fw-bold" data-aos="zoom-in" data-aos-duration="1000">
-              Carga segura em <span class="text-highlight">todo Brasil</span>
+              Sua carga em <span class="text-highlight">boas mãos</span>
             </h1>
             <p class="lead mb-4" data-aos="fade-up" data-aos-delay="300">Mudamos sua carga ainda hoje, 24hs por dia.</p>
             <a href="#lead-form" class="btn btn-accent btn-lg fw-bold" data-aos="zoom-in" data-aos-delay="500">

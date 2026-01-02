@@ -22,6 +22,17 @@
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7CHRLNL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>    
     <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KC855Z4Y7L"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-KC855Z4Y7L');
+    </script>
+
     
     <meta property="og:title" content="Carretos em Praia Grande">
     <meta property="og:description" content="A Carretos Praia Grande é especializada em soluções completas para suas necessidades em pequenos transportes para residências e comércios na região de Praia Grande.">

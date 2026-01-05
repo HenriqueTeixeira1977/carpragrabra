@@ -1,28 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <title>CARRETOS PRAIA GRANDE - (13) 98126-9443</title>
-
-
-    <meta name="description" content="A Carretos Praia Grande é especializada em soluções completas para suas necessidades em pequenos transportes para residências e comércios na região de Praia Grande.">       
-    <meta name="keywords" content="Carretos Praia Grande, carretos em praia Grande, Carretos em Praia Grande, Empresa de carretos em Praia Grande, Serviços de mudança e carretos em Praia Grande, Carretos comerciais em Praia Grande, carretos em Praia Grande e região, pequenos carretos.">     
-    
-    <meta name="author" content="Henrique Teixeira | HT WebSitesBuilder">
-    <meta name="robots" content="index, follow">        
-    <meta name="googlebot" content="index, follow">        
-    <meta name="google-site-verification" content="-FbYW8EfjSpYoXkryJyNlU7wQUdYQlwgZoOJ2grohTA">   
-    <meta name="google-site-verification" content="=-FbYW8EfjSpYoXkryJyNlU7wQUdYQlwgZoOJ2grohTA">   
-    <!--  google-site-verification=-FbYW8EfjSpYoXkryJyNlU7wQUdYQlwgZoOJ2grohTA  -->
-    <link rel="sitemap" type="application/xml" href="sitemap.xml">
-    <link rel="canonical" href="https://www.carretospraiagrande.com.br"> 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7CHRLNL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>    
-    <!-- End Google Tag Manager (noscript) -->
-
+      <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T5MV99WZ');</script>
+    <!-- End Google Tag Manager -->
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-KC855Z4Y7L"></script>
     <script>
@@ -32,18 +17,29 @@
 
       gtag('config', 'G-KC855Z4Y7L');
     </script>
-
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KC855Z4Y7L"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KC855Z4Y7L');
-</script>
-
+   
     
+    <meta name="google-site-verification" content="-FbYW8EfjSpYoXkryJyNlU7wQUdYQlwgZoOJ2grohTA">   
+    <meta name="google-site-verification" content="=-FbYW8EfjSpYoXkryJyNlU7wQUdYQlwgZoOJ2grohTA">   
+    <!--  google-site-verification=-FbYW8EfjSpYoXkryJyNlU7wQUdYQlwgZoOJ2grohTA  -->
+    <link rel="sitemap" type="application/xml" href="sitemap.xml">
+    <link rel="canonical" href="https://www.carretospraiagrande.com.br"> 
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7CHRLNL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>    
+    <!-- End Google Tag Manager (noscript) -->
+
+
+
+    <meta name="author" content="Henrique Teixeira | HT WebSitesBuilder">
+    <meta name="robots" content="index, follow">        
+    <meta name="googlebot" content="index, follow">  
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CARRETOS PRAIA GRANDE - (13) 98126-9443</title>
+    <meta name="description" content="A Carretos Praia Grande é especializada em soluções completas para suas necessidades em pequenos transportes para residências e comércios na região de Praia Grande.">       
+    <meta name="keywords" content="Carretos Praia Grande, carretos em praia Grande, Carretos em Praia Grande, Empresa de carretos em Praia Grande, Serviços de mudança e carretos em Praia Grande, Carretos comerciais em Praia Grande, carretos em Praia Grande e região, pequenos carretos.">         
     <meta property="og:title" content="Carretos em Praia Grande">
     <meta property="og:description" content="A Carretos Praia Grande é especializada em soluções completas para suas necessidades em pequenos transportes para residências e comércios na região de Praia Grande.">
     <meta property="og:type" content="website">
@@ -52,31 +48,30 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Carretos em Praia Grande">
     <meta name="twitter:description" content="A Carretos Praia Grande é especializada em soluções completas para suas necessidades em pequenos transportes para residências e comércios na região de Praia Grande.">
-    <meta name="twitter:image" content="https://carretospraiagrande.com.br/img-sobre.webp">
-    
+    <meta name="twitter:image" content="https://carretospraiagrande.com.br/img-sobre.webp">   
     <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
-
     <!-- SEO -->
     <meta name="description" content="Carretos Praia Grande - Pequenos transportes para residências e comércios na região de Praia Grande.">
     <meta name="keywords" content="Carretos Brasil, transportes, Praia Grande SP">
-
     <!-- GOOGLE FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-
     <!-- LIBS CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
     <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
-
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/gallery.css">
 
 </head>
 
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5MV99WZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
                                                                                              
 <!-- ========== /HEADER =============== -->
     <header>
